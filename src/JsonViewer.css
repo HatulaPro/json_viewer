@@ -1,0 +1,8 @@
+.jsonViewer {
+	padding-left: 1rem;
+}
+
+.jsonViewer button {
+	position: absolute;
+	margin-left: -2.4rem;
+}
